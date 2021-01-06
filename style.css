@@ -1,0 +1,124 @@
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  width: 80%;
+  margin-left: 135px;
+  font-family: "Roboto", sans-serif;
+}
+li a {
+  float: right;
+  color: #3c3c3c;
+  font: bold;
+  font-weight: 700;
+  font-size: 16px;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+}
+.NameHighlight2 {
+  color: #ff8367;
+  font-weight: 900;
+  font-family: "Bebas Neue", cursive;
+  font-size: 50px;
+}
+.NameHighlight1 {
+  color: #363958;
+  font-weight: 900;
+  font-family: "Bebas Neue", cursive;
+  font-size: 60px;
+}
+p {
+  font-weight: 400;
+  font-size: 16px;
+  color: #3e3e3e;
+  font-family: "Roboto", sans-serif;
+}
+.half-width {
+  float: left;
+  width: 40%;
+  margin-left: 100px;
+  padding-left: 1%;
+  padding-top: 2%;
+  display: block;
+}
+.half-width img {
+  width: 100%;
+}
+.button1 {
+  text-decoration: none;
+  color: white;
+  background-color: #752443;
+
+  background-image: linear-gradient(130deg, #dd6d98, lightgreen);
+  padding: 15px 30px;
+  border-radius: 10px;
+}
+.background1 {
+  background-color: #e5e5e5;
+  width: 89%;
+  height: 500px;
+  float: left;
+
+  padding: 20px 100px;
+}
+.border {
+  padding-bottom: 300px;
+}
+
+.latest-project {
+  padding: 10px 40px;
+  width: 22%;
+  float: left;
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+  height: 60%;
+  margin: 10px 20px;
+}
+.latest-project img {
+  height: 200px;
+  width: 300px;
+}
+.alignment {
+  text-align: center;
+}
+.background2 {
+  background-color: rgb(166, 201, 248);
+
+  float: left;
+}
+.background3 {
+  float: left;
+  background-image: url(shapes/Group_33094_1.png);
+  background-position: center;
+  border-radius: 20px;
+  margin: 40px 25%;
+  height: 100px;
+  width: 50%;
+
+  padding-top: 20px 20px;
+}
+.inquery-box {
+  padding: 30px 100px;
+  float: left;
+  margin: 15px 10px;
+}
+#inquery-1 {
+  color: white;
+  font-size: 20px;
+  font-family: "Bebas Neue", cursive;
+  font-weight: 900;
+}
+.border4 {
+  float: left;
+
+  width: 100%;
+}
+.icons {
+  text-align: center;
+}
+.icons img {
+  height: 40px;
+  width: 40px;
+}
